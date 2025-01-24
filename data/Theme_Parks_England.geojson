@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "Theme_Parks_England",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Theme Park": "Alton Towers", "Latitude": 52.985882, "Longitude": -1.885312 }, "geometry": { "type": "Point", "coordinates": [ -1.885312, 52.985882 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Thorpe Park", "Latitude": 51.40472, "Longitude": -0.51306 }, "geometry": { "type": "Point", "coordinates": [ -0.51306, 51.40472 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Chessington World of Adventures", "Latitude": 51.3493, "Longitude": -0.325 }, "geometry": { "type": "Point", "coordinates": [ -0.325, 51.3493 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Legoland Windsor Resort", "Latitude": 51.4634, "Longitude": -0.6516 }, "geometry": { "type": "Point", "coordinates": [ -0.6516, 51.4634 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Drayton Manor Theme Park", "Latitude": 52.6114, "Longitude": -1.719 }, "geometry": { "type": "Point", "coordinates": [ -1.719, 52.6114 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Paultons Park", "Latitude": 50.9445, "Longitude": -1.5528 }, "geometry": { "type": "Point", "coordinates": [ -1.5528, 50.9445 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Flamingo Land", "Latitude": 54.2139, "Longitude": -0.8006 }, "geometry": { "type": "Point", "coordinates": [ -0.8006, 54.2139 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Adventure Island", "Latitude": 51.532864, "Longitude": 0.716493 }, "geometry": { "type": "Point", "coordinates": [ 0.716493, 51.532864 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Pleasurewood Hills", "Latitude": 52.501, "Longitude": 1.749 }, "geometry": { "type": "Point", "coordinates": [ 1.749, 52.501 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Diggerland", "Latitude": 51.33, "Longitude": 0.508 }, "geometry": { "type": "Point", "coordinates": [ 0.508, 51.33 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "The Milky Way Adventure Park", "Latitude": 50.951, "Longitude": -4.466 }, "geometry": { "type": "Point", "coordinates": [ -4.466, 50.951 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Crealy Theme Park & Resort", "Latitude": 50.728, "Longitude": -3.437 }, "geometry": { "type": "Point", "coordinates": [ -3.437, 50.728 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Gulliver's World", "Latitude": 53.392, "Longitude": -2.602 }, "geometry": { "type": "Point", "coordinates": [ -2.602, 53.392 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Lightwater Valley", "Latitude": 54.136, "Longitude": -1.52 }, "geometry": { "type": "Point", "coordinates": [ -1.52, 54.136 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Oakwood Theme Park", "Latitude": 51.797, "Longitude": -4.826 }, "geometry": { "type": "Point", "coordinates": [ -4.826, 51.797 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Sundown Adventureland", "Latitude": 53.274, "Longitude": -0.901 }, "geometry": { "type": "Point", "coordinates": [ -0.901, 53.274 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Twinlakes Park", "Latitude": 52.772, "Longitude": -0.877 }, "geometry": { "type": "Point", "coordinates": [ -0.877, 52.772 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "Wheelgate Park", "Latitude": 53.095, "Longitude": -1.122 }, "geometry": { "type": "Point", "coordinates": [ -1.122, 53.095 ] } },
+{ "type": "Feature", "properties": { "Theme Park": "The Big Sheep", "Latitude": 51.015505, "Longitude": -4.244724 }, "geometry": { "type": "Point", "coordinates": [ -4.244724, 51.015505 ] } }
+]
+}
