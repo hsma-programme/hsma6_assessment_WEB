@@ -1,3 +1,9 @@
+# Launch on the web
+
+Click here to [![Open or Resume the Assessment in GitHub Codespaces](https://github.com/codespaces/badge.svg)]([URL](https://codespaces.new/hsma-programme/hsma6_assessment_WEB?quickstart=1))
+
+# General Instructions
+
 The assessment is provided as a Jupyter Notebook, along with some csv data files that are required to answer some of the optional questions.
 
 You will have from 10:30 - 12 to complete the assessment, and submit it to us (instructions for submission will be provided on the day).  Late submissions will be disqualified.
