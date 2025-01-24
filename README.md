@@ -1,6 +1,6 @@
 # Launch on the web
 
-Click here to [![Open or Resume the Assessment in GitHub Codespaces](https://github.com/codespaces/badge.svg)]([URL](https://codespaces.new/hsma-programme/hsma6_assessment_WEB?quickstart=1))
+Click here to [![Open or Resume the Assessment in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/hsma-programme/hsma6_assessment_WEB?quickstart=1)
 
 # General Instructions
 
